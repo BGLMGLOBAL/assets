@@ -1,0 +1,11 @@
+{
+  "name": "BGLM",
+  "website": "https://www.bglm.global/",
+  "description": "BGLM is a BEP-20 token built on BNB Smart Chain.",
+  "explorer": "https://bscscan.com/token/0x0dbf5e1c36ba7702b0c001d3df93b3d9d3017064",
+  "type": "BEP20",
+  "symbol": "BGLM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0dbf5e1c36ba7702b0c001d3df93b3d9d3017064"
+}
